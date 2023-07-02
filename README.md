@@ -7,4 +7,4 @@ I had a study in Banking and Finance field for my degree. So I'm trying to persi
 
 Fintech is interesting subject that I've never touch into it, so Igave it a try.
 
-![Alt text](https://appinventiv.com/blog/impact-of-fintech-on-your-business/)
+![Alt text] (https://appinventiv.com/blog/impact-of-fintech-on-your-business/)
