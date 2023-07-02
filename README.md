@@ -7,4 +7,4 @@ I had a study in Banking and Finance field for my degree. So I'm trying to persi
 
 Fintech is interesting subject that I've never touch into it, so Igave it a try.
 
-![Alt text] (fintech-app-development.jpg)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
